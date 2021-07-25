@@ -2,4 +2,4 @@
 
 ## Architecture ##
 
-https://github.com/rahulgarg97/Smart-Photo-Album/blob/main/Smart-Photo-Album.png
+https://github.com/vg2134/Voice-Controlled-Smart-Photo-Album/blob/master/Smart-Photo-Album.png
